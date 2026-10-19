@@ -1,8 +1,14 @@
-# persianfla/flarum-ext-persian (Archive)
+# persianfla-flarum-ext-persian (Archive)
 
-> **Read-only archive of released versions of persianfla/flarum-ext-persian.** Not for installation: use [Packagist](https://packagist.org/packages/persianfla/flarum-ext-persian) or the [upstream repository](https://github.com/persianfla/flarum-ext-persian).
+> **Read-only archive of released versions for persianfla/flarum-ext-persian, sijad/flarum-ext-persian.** Not for installation: use Packagist or the [upstream repository](https://github.com/persianfla/flarum-ext-persian).
 
 **1** versions archived · Latest: [`v0.0.1`](https://github.com/flarchive/persianfla-flarum-ext-persian/tree/archive/v0.0.1) · License: `MIT` · Flarum: `^0.1.0-beta.5`
+
+## Linked Packages
+
+This canonical archive repository hosts releases for the following Packagist packages:
+- [`persianfla/flarum-ext-persian`](https://packagist.org/packages/persianfla/flarum-ext-persian)
+- [`sijad/flarum-ext-persian`](https://packagist.org/packages/sijad/flarum-ext-persian)
 
 ## Archived Versions
 
@@ -10,7 +16,10 @@
 |---|---|---|---|
 | `v0.0.1` | 2019-03-30 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/persianfla-flarum-ext-persian/tree/archive/v0.0.1) |
 
-Catalog entry: [packages/persianfla-flarum-ext-persian.json](https://github.com/flarchive/archive-index/blob/main/packages/persianfla-flarum-ext-persian.json)
+## Catalog entries
+
+- [`persianfla/flarum-ext-persian`](https://github.com/flarchive/archive-index/blob/main/packages/persianfla-flarum-ext-persian.json)
+- [`sijad/flarum-ext-persian`](https://github.com/flarchive/archive-index/blob/main/packages/sijad-flarum-ext-persian.json)
 
 ## About this archive
 
